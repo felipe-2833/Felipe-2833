@@ -13,10 +13,3 @@
   <img src="https://img.shields.io/badge/Archimate-FAC800?style=for-the-badge&logo=archi&logoColor=black" height="30" alt="Archimate" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felipe-2833/Felipe-2833/output/pacman-contribution-graph.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felipe-2833/Felipe-2833/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Felipe-2833/Felipe-2833/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
